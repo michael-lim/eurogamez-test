@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "eurogamez-test",
+    "slug": "eurogamez-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
